@@ -16,7 +16,7 @@ To run JobsPage locally, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
 ```
-git clone <repository_link>
+git clone git@github.com:dawood8080/jobsPage.git
 ```
 
 2. Navigate to the project directory:
