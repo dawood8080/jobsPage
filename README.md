@@ -1,34 +1,70 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# JobsPage
 
-## Getting Started
+JobsPage is a web application that allows users to manage job posts effectively. It provides features such as adding new job posts, viewing a list of job posts, deleting job posts, and searching for job titles with debouncing technique. Additionally, users can filter job posts by sectors, countries, and cities, and pagination is implemented with 10 jobs per page. The UI is responsive for a seamless user experience.
 
-First, run the development server:
+## Technologies Used
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+- ReactJS
+- Next.js
+- AppRoute
+- V14
+
+## How to Run Locally
+
+To run JobsPage locally, follow these steps:
+
+1. Clone this repository to your local machine using the following command:
+
+```
+git clone <repository_link>
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Navigate to the project directory:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```
+cd JobsPage
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+3. Install dependencies:
 
-## Learn More
+```
+npm install
+```
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. Start the development server:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+5. Open your web browser and navigate to `http://localhost:3000` to view the application.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Features
+
+- Add new job posts
+- View list of job posts
+- Delete job posts
+- Search job titles with debouncing
+- Filter job posts by sectors, countries, and cities
+- Pagination with 10 jobs per page
+- Responsive UI for optimal viewing experience
+
+## Usage
+
+- **Adding Job Posts**: Click on the "Add Job" button and fill out the required information to create a new job post.
+- **Viewing Job Posts**: Navigate to the "Jobs" page to see a list of all available job posts.
+- **Deleting Job Posts**: On the "Jobs" page, click on the delete icon next to a job post to remove it from the list.
+- **Searching for Job Titles**: Use the search bar to search for specific job titles. The search uses debouncing for smoother performance.
+- **Filtering Job Posts**: Use the filter options to narrow down job posts by sectors, countries, and cities.
+- **Pagination**: Navigate through pages of job posts with 10 jobs per page for easy browsing.
+
+## Screenshots
+
+### Desktop
+
+
+### Mobile
+
+
+## Contributors
+
+- [Dawood Abu Swai]([link_to_profile](https://github.com/dawood8080)) - Front-end Developer

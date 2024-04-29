@@ -1,0 +1,56 @@
+.button {
+  --tw-text-opacity: 1;
+  -webkit-user-select: none;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+  border-width: 1px;
+  color: var(--white-color);
+  cursor: pointer;
+  display: inline-flex;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+  font-size: 14px;
+  font-weight: 600;
+  gap: 8px;
+  height: 48px;
+  justify-content: center;
+  line-height: 16px;
+  min-height: 48px;
+  padding-left: 16px;
+  padding-right: 16px;
+  text-align: center;
+  user-select: none;
+}
+
+.button[aria-disabled="true"] {
+  background-color: var(--color-gray);
+}
+
+.buttonsWrapper {
+  align-items: center;
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 20px;
+  padding: 5px 20px;
+  width: 100%;
+}
+
+.submit {
+  background-color: var(--color-blue);
+  color: var(--color-white);
+}
+
+.error {
+  justify-self: start;
+  width: 30%;
+  font-size: 14px;
+  color: var(--color-red);
+}
+
+.bottomPart {
+  align-items: center;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}

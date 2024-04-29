@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "id": 3,
+      "country": "Syria",
+      "sector": "Healthcare",
+      "title": "Nurse",
+      "city": "Damascus",
+      "image": "https://picsum.photos/500/500",
+      "description": "We are hiring nurses to join our medical team and provide compassionate care to our patients."
+    },
+    {
+      "id": 4,
+      "country": "Palestine",
+      "sector": "Marketing",
+      "title": "Marketing Specialist",
+      "city": "Ramallah",
+      "image": "https://picsum.photos/500/500",
+      "description": "We are looking for a creative marketing specialist to develop and implement marketing strategies to promote our products."
+    },
+    {
+      "id": 5,
+      "country": "Lebanon",
+      "sector": "Education",
+      "title": "English Teacher",
+      "city": "Tripoli",
+      "image": "https://picsum.photos/500/500",
+      "description": "We are seeking a qualified English teacher to inspire and educate students at our school."
+    },
+    {
+      "id": 6,
+      "country": "Jordan",
+      "sector": "Engineering",
+      "title": "Civil Engineer",
+      "city": "Irbid",
+      "image": "https://picsum.photos/500/500",
+      "description": "We are hiring a civil engineer to design, develop, and construct a wide range of projects."
+    },
+    {
+      "id": 7,
+      "country": "Syria",
+      "sector": "Hospitality",
+      "title": "Hotel Manager",
+      "city": "Aleppo",
+      "image": "https://picsum.photos/500/500",
+      "description": "We are looking for an experienced hotel manager to oversee the daily operations of our hotel."
+    },
+    {
+      "id": 8,
+      "country": "Lebanon",
+      "sector": "Finance",
+      "title": "Accountant",
+      "city": "Saida",
+      "image": "https://picsum.photos/500/500",
+      "description": "We are seeking an experienced accountant to manage our financial transactions and records."
+    },
+    {
+      "id": 9,
+      "country": "Jordan",
+      "sector": "Sales",
+      "title": "Sales Representative",
+      "city": "Aqaba",
+      "image": "https://picsum.photos/500/500",
+      "description": "We are hiring a motivated sales representative to attract new clients and maintain existing relationships."
+    },
+    {
+      "id": 10,
+      "country": "Lebanon",
+      "sector": "Human Resources",
+      "title": "HR Manager",
+      "city": "Zahle",
+      "image": "https://picsum.photos/500/500",
+      "description": "We are seeking an HR manager to oversee all aspects of human resources practices and processes."
+    },
+    {
+      "id": 11,
+      "country": "Syria",
+      "sector": "Information Technology",
+      "title": "Web Developer",
+      "city": "Homs",
+      "image": "https://picsum.photos/500/500",
+      "description": "We are looking for a skilled web developer to join our IT team and contribute to the development of our web applications."
+    },
+    {
+      "id": 12,
+      "country": "Palestine",
+      "sector": "Education",
+      "title": "Math Teacher",
+      "city": "Nablus",
+      "image": "https://picsum.photos/500/500",
+      "description": "We are seeking a passionate math teacher to teach high school students."
+    },
+    {
+      "id": 13,
+      "country": "Lebanon",
+      "sector": "Marketing",
+      "title": "Social Media Manager",
+      "city": "Jounieh",
+      "image": "https://picsum.photos/500/500",
+      "description": "We are looking for a creative social media manager to develop engaging content and grow our online presence."
+    },
+    {
+      "id": 14,
+      "country": "Jordan",
+      "sector": "Healthcare",
+      "title": "Doctor",
+      "city": "Salt",
+      "image": "https://picsum.photos/500/500",
+      "description": "We are seeking a qualified doctor to diagnose and treat medical conditions."
+    },
+    {
+      "id": 15,
+      "country": "Lebanon",
+      "sector": "Engineering",
+      "title": "Electrical Engineer",
+      "city": "Zahle",
+      "image": "https://picsum.photos/500/500",
+      "description": "We are hiring an electrical engineer to design, develop, and test electrical systems and equipment."
+    },
+    {
+      "city": "fasdf",
+      "country": "fsadfsafd",
+      "description": "ddddddddddddd",
+      "image": "https://picsum.photos/500/500",
+      "sector": "fsadfsdf",
+      "title": "dfasfd",
+      "id": "16"
+    },
+    {
+      "city": "fasdfsad",
+      "country": "fasdfsadf",
+      "description": "fffffffff",
+      "image": "https://picsum.photos/500/500",
+      "sector": "dsfsdf",
+      "title": "dfasdf",
+      "id": "17"
+    },
+    {
+      "city": "fsfdsfd",
+      "country": "fsadfasf",
+      "description": "fasdfasdf",
+      "image": "https://picsum.photos/500/500",
+      "sector": "fasdf",
+      "title": "fasdf",
+      "id": "18"
+    },
+    {
+      "city": "fsadf",
+      "country": "fasdf",
+      "description": "fsdfasdf",
+      "image": "https://picsum.photos/500/500",
+      "sector": "fsadfs",
+      "title": "fasdf",
+      "id": "19"
+    }
+  ]
+}
